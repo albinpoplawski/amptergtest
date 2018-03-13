@@ -1,35 +1,35 @@
 {
 	"items": [
 		{
-			"name": "Chain set",
+			"name": "Pralka Electrolux EAN 3427 SPL Vario",
 			"description": "Silver alloy construction for durability.",
-			"price": 867,
+			"price": 3497,
 			"image": "/img/e-commerce/product/product-3.jpg",
 			"category": "accessories"
 		},
 		{
-			"name": "Horn Handles",
+			"name": "Telewizor LG LED 55UJ620V",
 			"description": "Grippingly durable and stylish.",
-			"price": 838,
+			"price": 1238,
 			"image": "/img/e-commerce/product/product-7.jpg",
 			"category": "components"
 		},
 		{
-			"name": "Caliper Brakes",
+			"name": "Pralka BOSCH WAN 2427 SPL VarioPerfect",
 			"description": "Fits most wheel sizes and designed to last long.",
 			"price": 776,
 			"image": "/img/e-commerce/product/product-8.jpg",
 			"category": "components"
 		},
 		{
-			"name": "Red Cruiser",
+			"name": "Ultrabook DELL XPS 13 (9365-2230) i5-7Y54 8GB 256GB SSD W10",
 			"description": "Smooth ride for enjoyable cruising.",
 			"price": 688,
 			"image": "/img/e-commerce/product/product-6.jpg",
 			"category": "accessories"
 		},
 		{
-			"name": "Road Bike",
+			"name": "Pralka Electrolux EAN 3427 SPL Vario",
 			"description": "Built with lightweight aluminum for speed.",
 			"price": 644,
 			"image": "/img/e-commerce/product/product-9.jpg",
@@ -37,36 +37,36 @@
 		},
 		{
 			"name": "Fixie Blue",
-			"description": "Designed to get you there.",
+			"description": "Pralka BOSCH WAN 2427 SPL VarioPerfect",
 			"price": 643,
 			"image": "/img/e-commerce/product/product-2.jpg",
 			"category": "accessories"
 		},
 		{
-			"name": "Wheel Set",
+			"name": "Telewizor LG LED 45UJ320V",
 			"description": "Ride Sally, ride.",
 			"price": 603,
 			"image": "/img/e-commerce/product/product-10.jpg",
 			"category": "components"
 		},
 		{
-			"name": "Sprocket Set",
+			"name": "Telewizor LG LED 55UJ620V",
 			"description": "Steel, designed for long lasting stability.",
-			"price": 581,
+			"price": 2581,
 			"image": "/img/e-commerce/product/product-1.jpg",
 			"category": "bikes"
 		},
 		{
-			"name": "16-Speed",
+			"name": "Telewizor LG LED 45UJ320V",
 			"description": "Smooth shifting through all gears for city riding.",
-			"price": 524,
+			"price": 2524,
 			"image": "/img/e-commerce/product/product-5.jpg",
 			"category": "accessories"
 		},
 		{
-			"name": "Leather Saddle",
+			"name": "Pralka Siemens EAN 3427 SPL Vario",
 			"description": "Firm, yet comfortable for long leisurely rides.",
-			"price": 476,
+			"price": 1476,
 			"image": "/img/e-commerce/product/product-4.jpg",
 			"category": "accessories"
 		}
